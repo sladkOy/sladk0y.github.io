@@ -1,6 +1,6 @@
 # <a href="https://sladkoy.github.io/#work" style="text-decoration: none;" target="_blank">Лабораторные работы по ООЕИ</a>
 
-Лабораторная 1. Плакат на тему сайта Математика.укр. (<a href="http://dungidenes.github.io/Лр 1/Фотошоп.html" target="_blank">клик</a>)
+Лабораторная работа №1. Плакат на тему: реклама сайта <a href="https://математика.укр" style="text-decoration: none;" target="_blank">математика.укр</a>. (<a href="https://sladkoy.github.io/ooei/laba1/plakat.png" target="_blank">клик</a>)
 
 Лабораторная 2. Верстка письма на тему сайта Математика.укр. (<a href="https://gencyan.github.io/ЛР%202/index.html" target="_blank">клик</a>)
 
