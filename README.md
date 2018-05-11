@@ -1,5 +1,4 @@
-# sladkoy.github.io
-# <a href="https://sladkoy.github.io/#work" target="_blank">Лабораторные работы по ООЕИ</a>
+# <a href="https://sladkoy.github.io/#work" style="text-decoration: none;" target="_blank">Лабораторные работы по ООЕИ</a>
 
 Лабораторная 1. Плакат на тему сайта Математика.укр. (<a href="http://dungidenes.github.io/Лр 1/Фотошоп.html" target="_blank">клик</a>)
 
