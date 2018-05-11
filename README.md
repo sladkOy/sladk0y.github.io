@@ -1,16 +1,15 @@
-# <a href="https://sladkoy.github.io/#work" style="text-decoration: none;" target="_blank">Лабораторные работы по ООЕИ</a>
+# <a href="https://sladkoy.github.io/" style="text-decoration: none;" target="_blank">Лабораторные работы по ООЕИ</a>
 
 Лабораторная работа №1. Плакат на тему: реклама сайта <a href="https://математика.укр" style="text-decoration: none;" target="_blank">математика.укр</a>. (<a href="https://sladkoy.github.io/ooei/laba1/plakat.png" target="_blank">клик</a>)
 
-Лабораторная 2. Верстка письма на тему сайта Математика.укр. (<a href="https://gencyan.github.io/ЛР%202/index.html" target="_blank">клик</a>)
+Лабораторная работа №2. Верстка письма на тему: реклама сайта <a href="https://математика.укр" style="text-decoration: none;" target="_blank">математика.укр</a>. (<a href="https://sladkoy.github.io/ooei/laba2/index.html" target="_blank">клик</a>)
 
-Лабораторная 3. Форматирование текста с применением LaTeX и Texmaker.
+Лабораторная работа №3. Форматирование текста с применением LaTeX и Texmaker. (<a href="https://sladkoy.github.io/ooei/laba3/latex.html" target="_blank">клик</a>)
 
-Лабораторная 4. Создание XML документа и визуализация полученных из него данных. (<a href="https://gencyan.github.io/ЛР 4/index.html" target="_bl
-Лабораторная 6. SVG анимация. (<a href="http://gencyan.github.io/Лр 6/SVG.html" target="_blank">клик</a>)
+Лабораторные работы №4-7. Парсинг XML документа (PrivatBank API) и визуализация полученных из него данных. (<a href="https://sladkoy.github.io/ooei/laba4-7/index.html" target="_blank">клик</a>)
 
-Лабораторная 7. Буклет в формате ePub. (<a href="http://gencyan.github.io/Лр 7/Положення.epub" target="_blank">клик</a>)
+Лабораторные работы №8-9. SVG анимация. (<a href="https://sladkoy.github.io/ooei/laba8-9/animation.svg" target="_blank">клик</a>)
 
-Лабораторная 8. MS Word макрос. (готово)ank">клик</a>)
+Лабораторная работа №10. Документ в формате ePub. (<a href="https://sladkoy.github.io/ooei/laba10/index.epub" target="_blank">клик</a>)
 
-Лабораторная 5. Визуализация данных, полученых из API в формате XML. (<a href="http://gencyan.github.io/Лр 5/index.html" target="_blank">клик</a>)
+Лабораторные работы №11-13. Макрос для MS Word . (<a href="https://sladkoy.github.io/ooei/laba11-13/eskd&wave.bas" target="_blank">клик</a>)
