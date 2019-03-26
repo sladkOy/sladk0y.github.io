@@ -1,0 +1,54 @@
+<html>
+<head>
+	<script type="text/javascript" src="https://www.google.com/jsapi"></script>
+</head>
+<script> 
+	google.load("visualization", "1.1", 
+		{packages:["wordtree"]});
+		google.setOnLoadCallback(drawChart);
+		function drawChart() {
+			var data = google.visualization.arrayToDataTable(
+				[ ['Фразы'],
+				 ['Студент 1 курс 1 семестр Ал.Геом'],
+				 ['Студент 1 курс 1 семестр ОПР'],
+				 ['Студент 1 курс 1 семестр МА'],
+				 ['Студент 1 курс 2 семестр ДМ'],
+				 ['Студент 1 курс 2 семестр ІСІ'],
+				 ['Студент 1 курс 2 семестр ЕМ'],
+				 ['Студент 2 курс 3 семестр МОДО'],
+				 ['Студент 2 курс 3 семестр ДР'],
+				 ['Студент 2 курс 3 семестр ДР Ал.Геом'],
+				 ['Студент 2 курс 3 семестр ДР МА'],				 
+				 ['Студент 2 курс 3 семестр УкрЗ'],
+				 ['Студент 2 курс 4 семестр МЛТА'],
+				 ['Студент 2 курс 4 семестр МЛТА ДМ'],	
+				 ['Студент 2 курс 4 семестр МЛТА Ал.Геом'],				 
+				 ['Студент 2 курс 4 семестр УМПС'],
+				 ['Студент 2 курс 4 семестр ООЕІ'],
+				 ['Студент 3 курс 5 семестр ОМ'],
+				 ['Студент 3 курс 5 семестр ППЗ'],
+				 ['Студент 3 курс 5 семестр ОЗАП'],
+				 ['Студент 3 курс 6 семестр ППЗ'],
+				 ['Студент 3 курс 6 семестр МОКС'],
+				 ['Студент 3 курс 6 семестр ТІК'],
+				 ['Студент 3 курс 6 семестр ТІК МЛТА'],
+				 ['Студент 3 курс 6 семестр ТІК ДМ'],				 
+				 ]
+			);
+		var options = {
+			maxFontSize: 14,
+			wordtree: {
+				format: 'implicit',
+				word: 'Студент'
+			}
+		};
+	var chart = new google.visualization.WordTree
+	(document.getElementById('wordtree_basic'));
+	chart.draw(data, options);
+ }
+ </script>
+ <body>
+ <div id="wordtree_basic" style="width: 100%; height: 500px;">
+ </div>
+</body>
+</html>
