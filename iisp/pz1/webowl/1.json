@@ -1,0 +1,1148 @@
+{
+  "_comment": "Created with OWL2VOWL (version 0.3.1), http://vowl.visualdataweb.org [Additional Information added by WebVOWL Exporter Version: 1.0.3]",
+  "header": {
+    "baseIris": [
+      "http://www.w3.org/2000/01/rdf-schema",
+      "http://www.semanticweb.org/sladkoy/ontologies/2019/5/untitled-ontology-6"
+    ],
+    "iri": "http://www.semanticweb.org/sladkoy/ontologies/2019/5/untitled-ontology-6"
+  },
+  "namespace": [],
+  "metrics": {
+    "classCount": 28,
+    "objectPropertyCount": 0,
+    "datatypePropertyCount": 0,
+    "individualCount": 0
+  },
+  "settings": {
+    "global": {
+      "zoom": 0.378929078578949,
+      "translation": [
+        477.78277587890625,
+        296.3043518066406
+      ],
+      "paused": false
+    },
+    "gravity": {
+      "classDistance": 200,
+      "datatypeDistance": 120
+    },
+    "filter": {
+      "checkBox": [
+        {
+          "id": "datatypeFilterCheckbox",
+          "checked": false
+        },
+        {
+          "id": "objectPropertyFilterCheckbox",
+          "checked": false
+        },
+        {
+          "id": "subclassFilterCheckbox",
+          "checked": false
+        },
+        {
+          "id": "disjointFilterCheckbox",
+          "checked": true
+        },
+        {
+          "id": "setoperatorFilterCheckbox",
+          "checked": false
+        }
+      ],
+      "degreeSliderValue": "0"
+    },
+    "modes": {
+      "checkBox": [
+        {
+          "id": "pickandpinModuleCheckbox",
+          "checked": false
+        },
+        {
+          "id": "nodescalingModuleCheckbox",
+          "checked": true
+        },
+        {
+          "id": "compactnotationModuleCheckbox",
+          "checked": false
+        },
+        {
+          "id": "colorexternalsModuleCheckbox",
+          "checked": true
+        }
+      ],
+      "colorSwitchState": false
+    }
+  },
+  "class": [
+    {
+      "id": "0",
+      "type": "owl:Class"
+    },
+    {
+      "id": "2",
+      "type": "owl:Class"
+    },
+    {
+      "id": "4",
+      "type": "owl:Class"
+    },
+    {
+      "id": "6",
+      "type": "owl:Class"
+    },
+    {
+      "id": "8",
+      "type": "owl:Class"
+    },
+    {
+      "id": "7",
+      "type": "owl:Class"
+    },
+    {
+      "id": "19",
+      "type": "owl:Class"
+    },
+    {
+      "id": "17",
+      "type": "owl:Class"
+    },
+    {
+      "id": "3",
+      "type": "owl:Class"
+    },
+    {
+      "id": "22",
+      "type": "owl:Class"
+    },
+    {
+      "id": "12",
+      "type": "owl:Class"
+    },
+    {
+      "id": "5",
+      "type": "owl:Class"
+    },
+    {
+      "id": "14",
+      "type": "owl:Class"
+    },
+    {
+      "id": "1",
+      "type": "owl:Class"
+    },
+    {
+      "id": "30",
+      "type": "owl:Class"
+    },
+    {
+      "id": "21",
+      "type": "owl:Class"
+    },
+    {
+      "id": "10",
+      "type": "owl:Class"
+    },
+    {
+      "id": "31",
+      "type": "owl:Class"
+    },
+    {
+      "id": "16",
+      "type": "owl:Class"
+    },
+    {
+      "id": "45",
+      "type": "owl:Class"
+    },
+    {
+      "id": "27",
+      "type": "owl:Class"
+    },
+    {
+      "id": "23",
+      "type": "owl:Class"
+    },
+    {
+      "id": "15",
+      "type": "owl:Class"
+    },
+    {
+      "id": "24",
+      "type": "owl:Class"
+    },
+    {
+      "id": "20",
+      "type": "owl:Class"
+    },
+    {
+      "id": "9",
+      "type": "owl:Class"
+    },
+    {
+      "id": "11",
+      "type": "owl:Class"
+    },
+    {
+      "id": "25",
+      "type": "owl:Class"
+    }
+  ],
+  "classAttribute": [
+    {
+      "iri": "http://www.semanticweb.org/sladkoy/ontologies/2019/5/untitled-ontology-6#ТИК",
+      "baseIri": "http://www.semanticweb.org/sladkoy/ontologies/2019/5/untitled-ontology-6",
+      "instances": 0,
+      "label": {
+        "IRI-based": "ТИК"
+      },
+      "id": "0",
+      "superClasses": [
+        "1"
+      ],
+      "pos": [
+        820.3641417970277,
+        -233.3327288468865
+      ]
+    },
+    {
+      "iri": "http://www.semanticweb.org/sladkoy/ontologies/2019/5/untitled-ontology-6#УМПС",
+      "baseIri": "http://www.semanticweb.org/sladkoy/ontologies/2019/5/untitled-ontology-6",
+      "instances": 0,
+      "label": {
+        "IRI-based": "УМПС"
+      },
+      "id": "2",
+      "superClasses": [
+        "3"
+      ],
+      "pos": [
+        285.6134068189648,
+        892.3814354957108
+      ]
+    },
+    {
+      "iri": "http://www.semanticweb.org/sladkoy/ontologies/2019/5/untitled-ontology-6#ТЙМС",
+      "baseIri": "http://www.semanticweb.org/sladkoy/ontologies/2019/5/untitled-ontology-6",
+      "instances": 0,
+      "label": {
+        "IRI-based": "ТЙМС"
+      },
+      "id": "4",
+      "superClasses": [
+        "5"
+      ],
+      "pos": [
+        1538.8748516993364,
+        529.2002040491484
+      ]
+    },
+    {
+      "iri": "http://www.semanticweb.org/sladkoy/ontologies/2019/5/untitled-ontology-6#ДМ",
+      "baseIri": "http://www.semanticweb.org/sladkoy/ontologies/2019/5/untitled-ontology-6",
+      "instances": 0,
+      "label": {
+        "IRI-based": "ДМ"
+      },
+      "id": "6",
+      "superClasses": [
+        "7"
+      ],
+      "pos": [
+        987.7228821675798,
+        1204.0732407018356
+      ]
+    },
+    {
+      "iri": "http://www.semanticweb.org/sladkoy/ontologies/2019/5/untitled-ontology-6#3_семестр",
+      "baseIri": "http://www.semanticweb.org/sladkoy/ontologies/2019/5/untitled-ontology-6",
+      "instances": 0,
+      "label": {
+        "IRI-based": "3_семестр"
+      },
+      "subClasses": [
+        "10",
+        "11",
+        "12"
+      ],
+      "id": "8",
+      "superClasses": [
+        "9"
+      ],
+      "pos": [
+        -0.9471948877800942,
+        320.37336993629117
+      ]
+    },
+    {
+      "iri": "http://www.semanticweb.org/sladkoy/ontologies/2019/5/untitled-ontology-6#2_семестр",
+      "baseIri": "http://www.semanticweb.org/sladkoy/ontologies/2019/5/untitled-ontology-6",
+      "instances": 0,
+      "label": {
+        "IRI-based": "2_семестр"
+      },
+      "subClasses": [
+        "16",
+        "6",
+        "17"
+      ],
+      "id": "7",
+      "superClasses": [
+        "15"
+      ],
+      "pos": [
+        826.3535347999713,
+        904.3080107117636
+      ]
+    },
+    {
+      "iri": "http://www.semanticweb.org/sladkoy/ontologies/2019/5/untitled-ontology-6#5_семестр",
+      "baseIri": "http://www.semanticweb.org/sladkoy/ontologies/2019/5/untitled-ontology-6",
+      "instances": 0,
+      "label": {
+        "IRI-based": "5_семестр"
+      },
+      "subClasses": [
+        "21",
+        "22",
+        "23"
+      ],
+      "id": "19",
+      "superClasses": [
+        "20"
+      ],
+      "pos": [
+        1070.8635433064421,
+        -63.60833990068759
+      ]
+    },
+    {
+      "iri": "http://www.semanticweb.org/sladkoy/ontologies/2019/5/untitled-ontology-6#МЛТА",
+      "baseIri": "http://www.semanticweb.org/sladkoy/ontologies/2019/5/untitled-ontology-6",
+      "instances": 0,
+      "label": {
+        "IRI-based": "МЛТА"
+      },
+      "id": "17",
+      "superClasses": [
+        "7"
+      ],
+      "pos": [
+        623.9876792940329,
+        1175.4645809893655
+      ]
+    },
+    {
+      "iri": "http://www.semanticweb.org/sladkoy/ontologies/2019/5/untitled-ontology-6#4_семестр",
+      "baseIri": "http://www.semanticweb.org/sladkoy/ontologies/2019/5/untitled-ontology-6",
+      "instances": 0,
+      "label": {
+        "IRI-based": "4_семестр"
+      },
+      "subClasses": [
+        "24",
+        "2",
+        "25"
+      ],
+      "id": "3",
+      "superClasses": [
+        "9"
+      ],
+      "pos": [
+        301.2252764289087,
+        540.9449126103599
+      ]
+    },
+    {
+      "iri": "http://www.semanticweb.org/sladkoy/ontologies/2019/5/untitled-ontology-6#ОЗАП",
+      "baseIri": "http://www.semanticweb.org/sladkoy/ontologies/2019/5/untitled-ontology-6",
+      "instances": 0,
+      "label": {
+        "IRI-based": "ОЗАП"
+      },
+      "id": "22",
+      "superClasses": [
+        "19"
+      ],
+      "pos": [
+        1264.9122052545097,
+        221.22104340100816
+      ]
+    },
+    {
+      "iri": "http://www.semanticweb.org/sladkoy/ontologies/2019/5/untitled-ontology-6#МОДО",
+      "baseIri": "http://www.semanticweb.org/sladkoy/ontologies/2019/5/untitled-ontology-6",
+      "instances": 0,
+      "label": {
+        "IRI-based": "МОДО"
+      },
+      "id": "12",
+      "superClasses": [
+        "8"
+      ],
+      "pos": [
+        -290.1930811131533,
+        477.26747954465935
+      ]
+    },
+    {
+      "iri": "http://www.semanticweb.org/sladkoy/ontologies/2019/5/untitled-ontology-6#1_семестр",
+      "baseIri": "http://www.semanticweb.org/sladkoy/ontologies/2019/5/untitled-ontology-6",
+      "instances": 0,
+      "label": {
+        "IRI-based": "1_семестр"
+      },
+      "subClasses": [
+        "30",
+        "31",
+        "4"
+      ],
+      "id": "5",
+      "superClasses": [
+        "15"
+      ],
+      "pos": [
+        1256.2234722553958,
+        706.5716214100854
+      ]
+    },
+    {
+      "iri": "http://www.semanticweb.org/sladkoy/ontologies/2019/5/untitled-ontology-6#ППЗ",
+      "baseIri": "http://www.semanticweb.org/sladkoy/ontologies/2019/5/untitled-ontology-6",
+      "instances": 0,
+      "label": {
+        "IRI-based": "ППЗ"
+      },
+      "id": "14",
+      "superClasses": [
+        "1"
+      ],
+      "pos": [
+        590.9656981666038,
+        -78.13675535610786
+      ]
+    },
+    {
+      "iri": "http://www.semanticweb.org/sladkoy/ontologies/2019/5/untitled-ontology-6#6_семестр",
+      "baseIri": "http://www.semanticweb.org/sladkoy/ontologies/2019/5/untitled-ontology-6",
+      "instances": 0,
+      "label": {
+        "IRI-based": "6_семестр"
+      },
+      "subClasses": [
+        "0",
+        "14",
+        "27"
+      ],
+      "id": "1",
+      "superClasses": [
+        "20"
+      ],
+      "pos": [
+        904.8805486260613,
+        117.93982145078252
+      ]
+    },
+    {
+      "iri": "http://www.semanticweb.org/sladkoy/ontologies/2019/5/untitled-ontology-6#ОПР",
+      "baseIri": "http://www.semanticweb.org/sladkoy/ontologies/2019/5/untitled-ontology-6",
+      "instances": 0,
+      "label": {
+        "IRI-based": "ОПР"
+      },
+      "id": "30",
+      "superClasses": [
+        "5"
+      ],
+      "pos": [
+        1390.9864827499168,
+        1017.776125845752
+      ]
+    },
+    {
+      "iri": "http://www.semanticweb.org/sladkoy/ontologies/2019/5/untitled-ontology-6#Ал.Геом",
+      "baseIri": "http://www.semanticweb.org/sladkoy/ontologies/2019/5/untitled-ontology-6",
+      "instances": 0,
+      "label": {
+        "IRI-based": "Ал.Геом"
+      },
+      "id": "21",
+      "superClasses": [
+        "19"
+      ],
+      "pos": [
+        1401.8476578778213,
+        -120.64662442181951
+      ]
+    },
+    {
+      "iri": "http://www.semanticweb.org/sladkoy/ontologies/2019/5/untitled-ontology-6#УкрЗ",
+      "baseIri": "http://www.semanticweb.org/sladkoy/ontologies/2019/5/untitled-ontology-6",
+      "instances": 0,
+      "label": {
+        "IRI-based": "УкрЗ"
+      },
+      "id": "10",
+      "superClasses": [
+        "8"
+      ],
+      "pos": [
+        65.38902825869019,
+        665.3701673639565
+      ]
+    },
+    {
+      "iri": "http://www.semanticweb.org/sladkoy/ontologies/2019/5/untitled-ontology-6#МА",
+      "baseIri": "http://www.semanticweb.org/sladkoy/ontologies/2019/5/untitled-ontology-6",
+      "instances": 0,
+      "label": {
+        "IRI-based": "МА"
+      },
+      "id": "31",
+      "superClasses": [
+        "5"
+      ],
+      "pos": [
+        1141.7103556977227,
+        1032.4364115243582
+      ]
+    },
+    {
+      "iri": "http://www.semanticweb.org/sladkoy/ontologies/2019/5/untitled-ontology-6#ЭМ",
+      "baseIri": "http://www.semanticweb.org/sladkoy/ontologies/2019/5/untitled-ontology-6",
+      "instances": 0,
+      "label": {
+        "IRI-based": "ЭМ"
+      },
+      "id": "16",
+      "superClasses": [
+        "7"
+      ],
+      "pos": [
+        1112.2200601515258,
+        729.128504013718
+      ]
+    },
+    {
+      "iri": "http://www.semanticweb.org/sladkoy/ontologies/2019/5/untitled-ontology-6#Студент",
+      "baseIri": "http://www.semanticweb.org/sladkoy/ontologies/2019/5/untitled-ontology-6",
+      "instances": 0,
+      "label": {
+        "IRI-based": "Студент"
+      },
+      "subClasses": [
+        "15",
+        "20",
+        "9"
+      ],
+      "id": "45",
+      "pos": [
+        678.7902836062366,
+        281.0523092612172
+      ]
+    },
+    {
+      "iri": "http://www.semanticweb.org/sladkoy/ontologies/2019/5/untitled-ontology-6#МОКС",
+      "baseIri": "http://www.semanticweb.org/sladkoy/ontologies/2019/5/untitled-ontology-6",
+      "instances": 0,
+      "label": {
+        "IRI-based": "МОКС"
+      },
+      "id": "27",
+      "superClasses": [
+        "1"
+      ],
+      "pos": [
+        555.3667517925844,
+        119.53846211311652
+      ]
+    },
+    {
+      "iri": "http://www.semanticweb.org/sladkoy/ontologies/2019/5/untitled-ontology-6#ИСИ",
+      "baseIri": "http://www.semanticweb.org/sladkoy/ontologies/2019/5/untitled-ontology-6",
+      "instances": 0,
+      "label": {
+        "IRI-based": "ИСИ"
+      },
+      "id": "23",
+      "superClasses": [
+        "19"
+      ],
+      "pos": [
+        1054.3851610924635,
+        -399.7724995968674
+      ]
+    },
+    {
+      "iri": "http://www.semanticweb.org/sladkoy/ontologies/2019/5/untitled-ontology-6#1_курс",
+      "baseIri": "http://www.semanticweb.org/sladkoy/ontologies/2019/5/untitled-ontology-6",
+      "instances": 0,
+      "label": {
+        "IRI-based": "1_курс"
+      },
+      "subClasses": [
+        "7",
+        "5"
+      ],
+      "id": "15",
+      "superClasses": [
+        "45"
+      ],
+      "pos": [
+        921.1288100272087,
+        561.153464986624
+      ]
+    },
+    {
+      "iri": "http://www.semanticweb.org/sladkoy/ontologies/2019/5/untitled-ontology-6#ООЕИ",
+      "baseIri": "http://www.semanticweb.org/sladkoy/ontologies/2019/5/untitled-ontology-6",
+      "instances": 0,
+      "label": {
+        "IRI-based": "ООЕИ"
+      },
+      "id": "24",
+      "superClasses": [
+        "3"
+      ],
+      "pos": [
+        492.2399779308163,
+        825.3722869065537
+      ]
+    },
+    {
+      "iri": "http://www.semanticweb.org/sladkoy/ontologies/2019/5/untitled-ontology-6#3_курс",
+      "baseIri": "http://www.semanticweb.org/sladkoy/ontologies/2019/5/untitled-ontology-6",
+      "instances": 0,
+      "label": {
+        "IRI-based": "3_курс"
+      },
+      "subClasses": [
+        "1",
+        "19"
+      ],
+      "id": "20",
+      "superClasses": [
+        "45"
+      ],
+      "pos": [
+        696.7704298007329,
+        -109.03676415515714
+      ]
+    },
+    {
+      "iri": "http://www.semanticweb.org/sladkoy/ontologies/2019/5/untitled-ontology-6#2_курс",
+      "baseIri": "http://www.semanticweb.org/sladkoy/ontologies/2019/5/untitled-ontology-6",
+      "instances": 0,
+      "label": {
+        "IRI-based": "2_курс"
+      },
+      "subClasses": [
+        "8",
+        "3"
+      ],
+      "id": "9",
+      "superClasses": [
+        "45"
+      ],
+      "pos": [
+        329.21646965784777,
+        196.926737249185
+      ]
+    },
+    {
+      "iri": "http://www.semanticweb.org/sladkoy/ontologies/2019/5/untitled-ontology-6#ДУ",
+      "baseIri": "http://www.semanticweb.org/sladkoy/ontologies/2019/5/untitled-ontology-6",
+      "instances": 0,
+      "label": {
+        "IRI-based": "ДУ"
+      },
+      "id": "11",
+      "superClasses": [
+        "8"
+      ],
+      "pos": [
+        -97.6681827369295,
+        655.7359697521724
+      ]
+    },
+    {
+      "iri": "http://www.semanticweb.org/sladkoy/ontologies/2019/5/untitled-ontology-6#МЛТА",
+      "baseIri": "http://www.semanticweb.org/sladkoy/ontologies/2019/5/untitled-ontology-6",
+      "instances": 0,
+      "label": {
+        "IRI-based": "МЛТА"
+      },
+      "id": "25",
+      "superClasses": [
+        "3"
+      ],
+      "pos": [
+        131.36285375065512,
+        210.78684018076282
+      ]
+    }
+  ],
+  "property": [
+    {
+      "id": "13",
+      "type": "rdfs:SubClassOf"
+    },
+    {
+      "id": "18",
+      "type": "rdfs:SubClassOf"
+    },
+    {
+      "id": "26",
+      "type": "rdfs:SubClassOf"
+    },
+    {
+      "id": "28",
+      "type": "rdfs:SubClassOf"
+    },
+    {
+      "id": "29",
+      "type": "rdfs:SubClassOf"
+    },
+    {
+      "id": "32",
+      "type": "rdfs:SubClassOf"
+    },
+    {
+      "id": "33",
+      "type": "rdfs:SubClassOf"
+    },
+    {
+      "id": "34",
+      "type": "rdfs:SubClassOf"
+    },
+    {
+      "id": "35",
+      "type": "rdfs:SubClassOf"
+    },
+    {
+      "id": "36",
+      "type": "rdfs:SubClassOf"
+    },
+    {
+      "id": "37",
+      "type": "rdfs:SubClassOf"
+    },
+    {
+      "id": "38",
+      "type": "rdfs:SubClassOf"
+    },
+    {
+      "id": "39",
+      "type": "rdfs:SubClassOf"
+    },
+    {
+      "id": "40",
+      "type": "rdfs:SubClassOf"
+    },
+    {
+      "id": "41",
+      "type": "rdfs:SubClassOf"
+    },
+    {
+      "id": "42",
+      "type": "rdfs:SubClassOf"
+    },
+    {
+      "id": "43",
+      "type": "rdfs:SubClassOf"
+    },
+    {
+      "id": "44",
+      "type": "rdfs:SubClassOf"
+    },
+    {
+      "id": "46",
+      "type": "rdfs:SubClassOf"
+    },
+    {
+      "id": "47",
+      "type": "rdfs:SubClassOf"
+    },
+    {
+      "id": "48",
+      "type": "rdfs:SubClassOf"
+    },
+    {
+      "id": "49",
+      "type": "rdfs:SubClassOf"
+    },
+    {
+      "id": "50",
+      "type": "rdfs:SubClassOf"
+    },
+    {
+      "id": "51",
+      "type": "rdfs:SubClassOf"
+    },
+    {
+      "id": "52",
+      "type": "rdfs:SubClassOf"
+    },
+    {
+      "id": "53",
+      "type": "rdfs:SubClassOf"
+    },
+    {
+      "id": "54",
+      "type": "rdfs:SubClassOf"
+    }
+  ],
+  "propertyAttribute": [
+    {
+      "range": "1",
+      "domain": "14",
+      "attributes": [
+        "anonymous",
+        "object"
+      ],
+      "id": "13",
+      "pos": [
+        747.9231233963326,
+        19.90153304733733
+      ]
+    },
+    {
+      "range": "1",
+      "domain": "0",
+      "attributes": [
+        "anonymous",
+        "object"
+      ],
+      "id": "18",
+      "pos": [
+        862.6223452115446,
+        -57.696453698052
+      ]
+    },
+    {
+      "range": "1",
+      "domain": "27",
+      "attributes": [
+        "anonymous",
+        "object"
+      ],
+      "id": "26",
+      "pos": [
+        730.1236502093229,
+        118.73914178194951
+      ]
+    },
+    {
+      "range": "20",
+      "domain": "19",
+      "attributes": [
+        "anonymous",
+        "object"
+      ],
+      "id": "28",
+      "pos": [
+        883.8169865535875,
+        -86.32255202792237
+      ]
+    },
+    {
+      "range": "20",
+      "domain": "1",
+      "attributes": [
+        "anonymous",
+        "object"
+      ],
+      "id": "29",
+      "pos": [
+        800.8254892133971,
+        4.451528647812687
+      ]
+    },
+    {
+      "range": "9",
+      "domain": "3",
+      "attributes": [
+        "anonymous",
+        "object"
+      ],
+      "id": "32",
+      "pos": [
+        315.2208730433782,
+        368.9358249297725
+      ]
+    },
+    {
+      "range": "9",
+      "domain": "8",
+      "attributes": [
+        "anonymous",
+        "object"
+      ],
+      "id": "33",
+      "pos": [
+        164.13463738503384,
+        258.65005359273806
+      ]
+    },
+    {
+      "range": "15",
+      "domain": "7",
+      "attributes": [
+        "anonymous",
+        "object"
+      ],
+      "id": "34",
+      "pos": [
+        873.74117241359,
+        732.7307378491938
+      ]
+    },
+    {
+      "range": "5",
+      "domain": "4",
+      "attributes": [
+        "anonymous",
+        "object"
+      ],
+      "id": "35",
+      "pos": [
+        1397.549161977366,
+        617.8859127296168
+      ]
+    },
+    {
+      "range": "15",
+      "domain": "5",
+      "attributes": [
+        "anonymous",
+        "object"
+      ],
+      "id": "36",
+      "pos": [
+        1088.6761411413022,
+        633.8625431983547
+      ]
+    },
+    {
+      "range": "3",
+      "domain": "25",
+      "attributes": [
+        "anonymous",
+        "object"
+      ],
+      "id": "37",
+      "pos": [
+        216.29406508978192,
+        375.8658763955614
+      ]
+    },
+    {
+      "range": "3",
+      "domain": "2",
+      "attributes": [
+        "anonymous",
+        "object"
+      ],
+      "id": "38",
+      "pos": [
+        293.41934162393676,
+        716.6631740530354
+      ]
+    },
+    {
+      "range": "5",
+      "domain": "31",
+      "attributes": [
+        "anonymous",
+        "object"
+      ],
+      "id": "39",
+      "pos": [
+        1198.9669139765592,
+        869.5040164672218
+      ]
+    },
+    {
+      "range": "5",
+      "domain": "30",
+      "attributes": [
+        "anonymous",
+        "object"
+      ],
+      "id": "40",
+      "pos": [
+        1323.6049775026563,
+        862.1738736279187
+      ]
+    },
+    {
+      "range": "19",
+      "domain": "22",
+      "attributes": [
+        "anonymous",
+        "object"
+      ],
+      "id": "41",
+      "pos": [
+        1167.887874280476,
+        78.80635175016029
+      ]
+    },
+    {
+      "range": "3",
+      "domain": "24",
+      "attributes": [
+        "anonymous",
+        "object"
+      ],
+      "id": "42",
+      "pos": [
+        396.7326271798625,
+        683.1585997584568
+      ]
+    },
+    {
+      "range": "19",
+      "domain": "23",
+      "attributes": [
+        "anonymous",
+        "object"
+      ],
+      "id": "43",
+      "pos": [
+        1062.624352199453,
+        -231.69041974877751
+      ]
+    },
+    {
+      "range": "45",
+      "domain": "9",
+      "attributes": [
+        "anonymous",
+        "object"
+      ],
+      "id": "44",
+      "pos": [
+        504.00337663204215,
+        238.9895232552011
+      ]
+    },
+    {
+      "range": "8",
+      "domain": "10",
+      "attributes": [
+        "anonymous",
+        "object"
+      ],
+      "id": "46",
+      "pos": [
+        32.22091668545505,
+        492.87176865012384
+      ]
+    },
+    {
+      "range": "8",
+      "domain": "11",
+      "attributes": [
+        "anonymous",
+        "object"
+      ],
+      "id": "47",
+      "pos": [
+        -49.3076888123548,
+        488.0546698442318
+      ]
+    },
+    {
+      "range": "8",
+      "domain": "12",
+      "attributes": [
+        "anonymous",
+        "object"
+      ],
+      "id": "48",
+      "pos": [
+        -145.5701380004667,
+        398.82042474047523
+      ]
+    },
+    {
+      "range": "7",
+      "domain": "16",
+      "attributes": [
+        "anonymous",
+        "object"
+      ],
+      "id": "49",
+      "pos": [
+        969.2867974757485,
+        816.7182573627408
+      ]
+    },
+    {
+      "range": "7",
+      "domain": "6",
+      "attributes": [
+        "anonymous",
+        "object"
+      ],
+      "id": "50",
+      "pos": [
+        907.0382084837755,
+        1054.1906257067997
+      ]
+    },
+    {
+      "range": "7",
+      "domain": "17",
+      "attributes": [
+        "anonymous",
+        "object"
+      ],
+      "id": "51",
+      "pos": [
+        725.170607047002,
+        1039.8862958505647
+      ]
+    },
+    {
+      "range": "19",
+      "domain": "21",
+      "attributes": [
+        "anonymous",
+        "object"
+      ],
+      "id": "52",
+      "pos": [
+        1236.3556005921319,
+        -92.12748216125354
+      ]
+    },
+    {
+      "range": "45",
+      "domain": "15",
+      "attributes": [
+        "anonymous",
+        "object"
+      ],
+      "id": "53",
+      "pos": [
+        799.9595468167226,
+        421.1028871239206
+      ]
+    },
+    {
+      "range": "45",
+      "domain": "20",
+      "attributes": [
+        "anonymous",
+        "object"
+      ],
+      "id": "54",
+      "pos": [
+        687.7803567034848,
+        86.00777255303004
+      ]
+    }
+  ]
+}
