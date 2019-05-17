@@ -32,7 +32,7 @@
 					<nav id="nav">
 						<a href="#me" class="icon icon-user active"><span>Обо мне</span></a>
 						<a href="#work" class="icon icon-folder"><span>Работы</span></a>
-						<a href="mailto:maksim.abramov.2013@gmail.com" class="icon icon-mail"><span>Контакты</span></a>
+						<a href="#contact" class="icon icon-mail"><span>Контакты</span></a>
 					</nav>
 
 				<!-- Main -->
@@ -75,8 +75,16 @@
 								<li><a href="iisp/laba012/ЛБ№012.pdf" style="text-decoration: none;" target="_blank" title="Visual Prolog"><strong>Лабораторные работы №0, 1, 2</strong></a></li>
 							</ol>
 						</article>
-					</div>
 		
+				<article id="contact" class="panel">
+					<form action="send.php" method="post">
+                                        <input type="text" name="fio" placeholder="Укажите ФИО" style="width: 100%; padding: 12px 20px; margin: 8px 0; box-sizing: border-box;" required>
+                                        <input type="text" name="email" placeholder="Укажите e-mail" style="width: 100%; padding: 12px 20px; margin: 8px 0; box-sizing: border-box;" required><br>
+					<input type="text" name="message" placeholder="Сообщение" style="width: 100%; height: 150px; padding: 12px 20px; box-sizing: border-box; border: 2px solid #ccc; border-radius: 4px; background-color: #f8f8f8; resize: none;" required>
+					<input type="submit" style="background-color: orange; border: none; color: white; padding: 16px 32px; text-decoration: none; margin: 4px 2px; cursor: pointer;" value="Отправить">
+                                        </form> 
+				</article>
+
 			<!-- Footer -->
 				<div id="footer">
 					<ul class="links">
@@ -86,3 +94,4 @@
 		</div>
 	</body>
 </html>
+		
